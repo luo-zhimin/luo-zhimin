@@ -10,11 +10,11 @@
 
 <div>
 <a href="https://github.com/luo-zhimin" >
-    <img src="https://github-readme-stats.vercel.app/api?username=luo-zhimin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits&count_private=true" alt="镜像's github stats" style="left: auto;width: 495px;height: 193px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luo-zhimin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits&count_private=true" alt="镜像's github stats" style="left: auto;width: 45%;height: 193px"/>
 </a>
 
 <a href="https://github.com/luo-zhimin">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luo-zhimin&layout=compact" style="right: auto;width: 498px;height: 193px" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luo-zhimin&layout=compact" style="right: auto;width: 45%;height: 193px" />
 </a>
 </div>
 
