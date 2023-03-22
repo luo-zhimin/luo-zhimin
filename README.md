@@ -1,8 +1,7 @@
-### Hi here 🐯 欢迎访问我的GitHub 👏
+### 欢迎访问我的GitHub 👏
 
-- 我现在是一名在上海打拼的码农
-- 欢迎各位留言互star项目 🌟
-- 有任何问题可以邮件 ****1798677862@qq.com****   沟通哦～
+- 搬砖工一枚～
+- 有任何问题可以邮件 ****acousticimage@qq.com**** 沟通哦～
 - 路在脚下，只要不放弃，披荆斩棘，便可走出属于自己的路，共勉
 - 个人后端笔记--https://www.yuque.com/books/share/2401b162-4e19-4a11-9c26-c44507206b3a 持续更新
 
@@ -27,7 +26,7 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="20px"></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" height="20px"></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="20px"></code>
-- Hobbies : ChineseChess 🎭 & Music 🎧
+- Hobbies : Music 🎧
 - Fact : First solve the problem, then write the code ❤️
 
 <hr>
